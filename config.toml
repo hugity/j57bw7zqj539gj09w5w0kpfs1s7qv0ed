@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = ""
+title = "MDFriday in Hugity"
+baseURL = "https://web.hugity.com/j57bw7zqj539gj09w5w0kpfs1s7qv0ed/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
@@ -16,10 +16,6 @@ title = "Ananke"
 weight = 1
 contentDir = "content/en"
 # languageDirection = 'rtl' for Right-To-Left languages
-[languages.fr]
-title = "Ananke Fr"
-weight = 2
-contentDir = "content/fr"
 
 [sitemap]
 changefreq = "monthly"
